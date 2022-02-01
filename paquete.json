@@ -1,0 +1,72 @@
+{
+
+"nombre" : " JoestarBot " ,
+
+"versión" : " 0.0.5 " ,
+  "descripción" : " Bot de WhatsApp " ,
+  "principal" : " principal.js " ,
+  "directorios" : {
+    "lib" : " biblioteca "
+  },
+  "repositorio" : {
+    "tipo" : " git " ,
+    "url" : " git "
+  },
+  "dependencias" : {
+    "@adiwajshing/baileys" : " ^3.5.2 " ,
+    "@iamtraction/google-translate" : " ^1.1.2 " ,
+    "@vitalets/google-translate-api" : " ^7.0.0 " ,
+    "asincrónico" : " ^2.4.1 " ,
+    "número de teléfono impresionante" : " ^2.48.0 " ,
+    "axios" : " ^0.21.1 " ,
+    "brainly-scraper" : " ^1.0.3 " ,
+    "brainly-scraper-v2" : " ^2.0.4-1 " ,
+    "navegador-id3-escritor" : " ^4.4.0 " ,
+    "cfonts" : " ^2.9.0 " ,
+    "proceso_niño" : " ^1.0.2 " ,
+    "color" : " ^4.0.0 " ,
+    "criptografía" : " ^1.0.1 " ,
+    "dotenv" : " ^8.2.0 " ,
+    "emoji-api" : " ^1.0.2 " ,
+    "expreso" : " ^4.17.1 " ,
+    "agente de usuario falso" : " ^1.0.1 " ,
+    "figlet" : " ^1.5.0 " ,
+    "tipo de archivo" : " ^16.3.0 " ,
+    "ffmpeg fluido" : " ^2.1.2 " ,
+    "datos de formulario" : " ^4.0.0 " ,
+    "fs-extra" : " ^10.0.0 " ,
+    "gis" : " ^2.1.6 " ,
+    "google-it" : " ^1.6.2 " ,
+    "obtuve" : " ^11.8.2 " ,
+    "imagen a base64" : " ^2.2.0 " ,
+    "buscador instantáneo" : " ^1.2.3 " ,
+    "jsdom" : " ^16.5.2 " ,
+    "momento-zona horaria" : " ^0.5.33 " ,
+    "ms" : " ^2.1.3 " ,
+    "multisecuencia" : " ^4.1.0 " ,
+    "búsqueda de nodo" : " ^2.6.1 " ,
+    "nodo-tesseract-ocr" : " ^2.2.1 " ,
+    "analizar-ms" : " ^2.1.0 " ,
+    "pdfkit" : " ^0.12.3 " ,
+    "rendimiento-ahora" : " ^2.1.0 " ,
+    "qrcode" : " ^1.3.2 " ,
+    "terminal de código qr" : " ^0.12.0 " ,
+    "qs" : " ^6.10.1 " ,
+    "solicitud" : " ^2.88.2 " ,
+    "scraper-instagram" : " ^1.0.17 " ,
+    "similitud" : " ^1.2.1 " ,
+    "giros" : " ^0.3.2 " ,
+    "tiktok-scraper-sin-marca de agua" : " ^1.0.6 " ,
+    "búsqueda en YouTube" : " ^2.10.2 "
+  },
+  "guiones" : {
+    "inicio" : " nodo inicio.js " ,
+    "prueba" : " echo \" Error: no se especificó ninguna prueba \" && exit 1 "
+  },
+  "autor" : " JOESTAR " ,
+  "licencia" : " licencia MIT " ,
+  "errores" : {
+    "url" : " sin aver "
+  },
+  "página de inicio" : " sin aver "
+}
